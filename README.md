@@ -40,7 +40,7 @@
 ## 📫 Contact Me
 
 - **이메일**: phwoo1315@naver.com
-
+- **블로그**: https://velog.io/@phwoo1315/posts
 ---
 
 ## 🏅 Certifications
