@@ -26,7 +26,7 @@
 
 | **Category**       | **Technologies** |
 |--------------------|------------------|
-| **Backend**        | Java, Spring Boot, MySQL, MyBatis, Redis, JPA, JWT, Spring Security, OAuth, TOTP |
+| **Backend**        | Java, Spring Boot, MySQL, MyBatis, Redis, JPA, JWT, Spring Security, HTML,CSS, JavaScript |
 | **DevOps & Tools** | GitHub Actions, AWS, Docker|
 
 ---
