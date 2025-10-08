@@ -5,11 +5,11 @@
 ---
 
 ## 👋 About Me
-안녕하세요! 저는 현재 **백엔드 개발자를 준비**하고 있는 **박헌우**입니다.
+안녕하세요! 저는 **끈질기게 문제를 파고드는 백엔드 개발자 박헌우**입니다
 
-사용자의 입장에서 문제를 고민하고, 기술적 깊이와 데이터 기반의 의사결정을 통해 더 나은 서비스를 만들어 나가는 데 즐거움을 느낍니다.
+**보안과 성능을 동시에 고려**하여 **안정적인 서비스 구현**을 목표로 합니다.
 
-> "좋은 서비스는 개발자가 아닌 사용자 관점에서 시작됩니다."
+팀 상황에 맞춘 유연한 기술 선택과 디테일을 놓치지 않는 보안/성능 개선을 통해 안정적인 서비스를 구현하도록 노력하고 있습니다.
 
 
 ---
@@ -27,7 +27,8 @@
 | **Category**       | **Technologies** |
 |--------------------|------------------|
 | **Backend**        | Java, Spring Boot, MySQL, MyBatis, Redis, JPA, JWT, Spring Security, HTML,CSS, JavaScript |
-| **DevOps & Tools** | GitHub Actions, AWS, Docker|
+| **DevOps & Tools** | Docker|
+studying AWS, GihubActions, MCP, PostgreSQL, MSA
 
 ---
 
