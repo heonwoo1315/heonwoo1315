@@ -24,11 +24,38 @@
 
 ## 🛠 Tech Stack
 
-| **Category**       | **Technologies** |
-|--------------------|------------------|
-| **Backend**        | Java, Spring Boot, MySQL, MyBatis, Redis, JPA, JWT, Spring Security, HTML,CSS, JavaScript |
-| **DevOps & Tools** | Docker|
-studying AWS, GihubActions, MCP, PostgreSQL, MSA
+### Backend
+<p>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MyBatis-4D789B?style=flat-square&logo=mybatis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
+</p>
+
+### Database
+<p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+</p>
+
+### DevOps & Tools
+<p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=chatgpt&logoColor=white"/>
+</p>
+
+### Studying
+<p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MSA-000000?style=flat-square"/>
+</p>
 
 ---
 
