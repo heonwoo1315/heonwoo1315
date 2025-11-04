@@ -55,6 +55,9 @@
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/MSA-000000?style=flat-square"/>
+    <a href="https://modelcontextprotocol.io" target="_blank">
+      <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E4BFE?style=flat-square&logo=openai&logoColor=white"/>
+    </a>
 </p>
 
 ---
