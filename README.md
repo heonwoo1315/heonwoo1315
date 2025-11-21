@@ -45,7 +45,6 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=chatgpt&logoColor=white"/>
 </p>
 
 ### Studying
