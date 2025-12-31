@@ -76,6 +76,8 @@
 ## 🏅 Certifications
 
 - 정보처리기사 (2024. 09. 10)
+<img width="150" height="150" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/9b13a4a6-23e4-4c1e-8387-0f42a51047e5" />
+
 
 ## 
 2024.09 ~ 2025.03 SSG I&C BootCamp (Java Back-end)
