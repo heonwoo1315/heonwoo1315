@@ -80,15 +80,6 @@ V1 팀 프로젝트 → V3 1인 성능 개선 고도화 진행 중
 
 ---
 
-## Education
-
-| 기간 | 내용 |
-|---|---|
-| 2018.03 ~ 2024.02 | 울산대학교 IT융합학부 IT융합학과 학사 졸업 |
-| 2024.09 ~ 2025.03 | SSG I&C Java 기반 백엔드 개발자 양성과정 수료 |
-
----
-
 ## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/phwoo1315@naver.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:phwoo1315@naver.com)
