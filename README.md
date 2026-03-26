@@ -1,35 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b0f4d,100:1c1c86&height=200&section=header&text=Heonwoo%20Park&fontColor=FFD700&fontSize=60&fontAlignY=35&desc=Backend%20Developer&descAlignY=65&descAlign=60&animation=fadeIn&speed=3)
 
-## About Me
+<div align="center">
 
-데이터 기반으로 문제를 정의하고, 대안을 비교하여 최적의 해결책을 도출하는 백엔드 개발자 박헌우입니다.
+### 💡 Introduction
+**"This is Heonwoo Park, a back-end developer who defines problems based on data and compares alternatives to derive optimal solutions."**
 
-- EXPLAIN 분석 → 복합 인덱스 설계로 **대용량 조회 응답시간 97% 개선** (2.6s → 0.06s)
-- Redis 자료구조 전환으로 **10만 유저 대응 메모리 40% 절감**
-- Elastic Beanstalk 없이 **VPC, ALB, Auto Scaling Group을 직접 설계/구축**
-
----
-
-## Projects
-
-### 🏆 [ShowPing](https://github.com/heonwoo1315/showping) — 라이브 커머스 플랫폼
-> SSG I&C 부트캠프 최종 프로젝트 **최우수상 수상** (4개 팀 중 1위)
-
-`Java` `Spring Boot` `JPA` `MySQL` `Redis` `AWS` `Docker` `JMeter`
-
-V1 팀 프로젝트 → V3 1인 성능 개선 고도화 진행 중
-
-**담당**: 회원/보안(JWT, WebAuthn 2FA, CSRF 방어), AWS 인프라 설계, DB/Redis 성능 최적화
-
-### 📦 [SSGPANG](https://github.com/heonwoo1315/ssgpang) — 재고 관리 시스템
-
-`Java` `Spring MVC` `MyBatis` `MySQL`
-
-**담당**: MyBatis 기반 다중 Join 쿼리 및 동적 SQL 검색 필터, 정규화된 ERD 설계
+</div>
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Backend
 <p>
@@ -71,7 +51,7 @@ V1 팀 프로젝트 → V3 1인 성능 개선 고도화 진행 중
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 <p>
   <img src="https://img.shields.io/badge/정보처리기사-0066CC?style=flat-square&logoColor=white"/>
@@ -80,7 +60,7 @@ V1 팀 프로젝트 → V3 1인 성능 개선 고도화 진행 중
 
 ---
 
-## Contact
+## 📫 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/phwoo1315@naver.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:phwoo1315@naver.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@phwoo1315/posts)
