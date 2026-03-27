@@ -15,10 +15,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-4D789B?style=flat-square&logo=mybatis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
 </p>
 
 ### Database & Cache
@@ -46,7 +43,6 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude Code-191919?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP Server-6E4BFE?style=flat-square"/>
 </p>
 
 ---
