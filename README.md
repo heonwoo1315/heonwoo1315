@@ -3,7 +3,7 @@
 <div align="center">
 
 ### 💡 Introduction
-**"This is Heonwoo Park, a back-end developer who defines problems based on data and compares alternatives to derive optimal solutions."**
+**"This is HeonWoo Park, a back-end developer who defines problems based on data and compares alternatives to derive optimal solutions."**
 
 </div>
 
